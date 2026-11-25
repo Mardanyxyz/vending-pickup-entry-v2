@@ -1,0 +1,1 @@
+Build a program that writes one vending-machine pickup line to /output/entry.txt for the make.fun bounty u-brisk-kestrel-93-one-line-one-minute-the-vending-376bbeee. One line only.
